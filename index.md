@@ -1,10 +1,15 @@
-# En tout genre
 - [Symmetric polynomials](sym_poly.pdf)
+- [Exponentielle d'une matrice](mat_expo.pdf)
 - [Valeurs propres d'une matrice, la fin va vous surprendre (Victor Esteve)](val_propre_esteve.pdf)
 - [Eigenfish (Victor Esteve)](eigenfish_notebook.pdf) - [Notebook jupyter](eigenfish_notebook.ipynb)
 - [Approximation uniforme de fonctions continues (avec Raphaël Sala et Hugo Garcia)](approx_uniforme.pdf)
 - [Primitive où te caches-tu ? Une introduction à l'algèbre différentielle](alg_diff_fermat_junior.pdf)
 - [Noyau, image, pseudo-inverse et une propriété universelle !](azumaya_drazin.pdf)
-
-# Le monde de Lie
-- [Exponentielle d'une matrice](mat_expo.pdf)
+- [Intégrale du 26 mai 2021](26_mai_2021.pdf)
+- [Apprendre en écrivant](apprendre_en_ecrivant.pdf)
+- [Détection de particules chargées dans un modèle simplifié de chambre à bulles (avec Raphaël Decan de Chatouville)](bulles.pdf) - [Diapositives](diapo_bulles.pdf)
+- [Ensembles intégraux de cardinal infini (avec Raphaël Decan de Chatouville)](integraux.pdf)
+- [DVE](dve.pdf)
+- [Des maths pour Vadim](vad_maths.pdf)
+- [Commentaire pour un ami I](poincare.pdf)
+- [Commentaire pour un ami II](zagier.pdf)
