@@ -4,6 +4,7 @@
 - [Eigenfish (Victor Esteve)](eigenfish_notebook.pdf) - [Notebook jupyter](eigenfish_notebook.ipynb)
 - [Approximation uniforme de fonctions continues (avec Raphaël Sala et Hugo Garcia)](approx_uniforme.pdf)
 - [Primitive où te caches-tu ? Une introduction à l'algèbre différentielle](alg_diff_fermat_junior.pdf)
+- [Noyau, image, pseudo-inverse et une propriété universelle !](azumaya_drazin.pdf)
 
 # Le monde de Lie
 - [Exponentielle d'une matrice](mat_expo.pdf)
