@@ -1,7 +1,7 @@
 # Introduction
-- [Trucs Spectraux et Hilbert](spectreHilbert.pdf), [TeX](spectreHilbert.zip) réalisé sous la dir. de Bernard Randé et [Julien Royer](https://www.math.univ-toulouse.fr/~jroyer/)
+- [Trucs Spectraux et Hilbert](spectreHilbert.pdf) ([TeX](spectreHilbert.zip)) réalisé sous la dir. de Bernard Randé et [Julien Royer](https://www.math.univ-toulouse.fr/~jroyer/)
 
-# Notes explicatives
+# Notes
 - [Symmetric polynomials](sym_poly.pdf)
 - [Exponentielle d'une matrice](mat_expo.pdf)
 - [Primitive où te caches-tu ? Une introduction à l'algèbre différentielle](alg_diff_fermat_junior.pdf)
@@ -11,12 +11,12 @@
 - [Géométrie projective](@todo) Pré-projet de S4 avec Elias Garcia-Naze, réalisé sous la dir. de [Thomas Dedieu](https://www.math.univ-toulouse.fr/~tdedieu/)
 - [Valeurs propres d'une matrice, la fin va vous surprendre (Victor Esteve)](val_propre_esteve.pdf)
 - [Eigenfish (Victor Esteve)](eigenfish_notebook.pdf) - [Notebook jupyter](eigenfish_notebook.ipynb)
-- [Approximation uniforme de fonctions continues (avec Raphaël Sala et Hugo Garcia)](approx_uniforme.pdf)
-- [Ensembles intégraux de cardinal infini (avec Raphaël Decan de Chatouville)](integraux.pdf)
+- [Approximation uniforme de fonctions continues](approx_uniforme.pdf) Projet de S2 avec Raphaël Sala et Hugo Garcia, réalisé sous la dir. de [Philippe Monnier](https://www.math.univ-toulouse.fr/~monnier/)
+- [Ensembles intégraux de cardinal infini](integraux.pdf) Projet de S1 avec avec Raphaël Decan de Chatouville
 - [DVE](dve.pdf)
 
 # Physique
-- [Détection de particules chargées dans un modèle simplifié de chambre à bulles (avec Raphaël Decan de Chatouville)](bulles.pdf) - [Diapositives](diapo_bulles.pdf)
+- [Détection de particules chargées dans un modèle simplifié de chambre à bulles](bulles.pdf) - [Diapositives](diapo_bulles.pdf) Projet de S1 avec avec Raphaël Decan de Chatouville
 
 # À droite, à gauche...
 - [Noyau, image, pseudo-inverse et une propriété universelle !](azumaya_drazin.pdf)
