@@ -1,5 +1,5 @@
 # Introduction
-- [Trucs Spectraux et Hilbert](spectreHilbert.pdf), [TeX]() réalisé sous la dir. de Bernard Randé et [Julien Royer](https://www.math.univ-toulouse.fr/~jroyer/)
+- [Trucs Spectraux et Hilbert](spectreHilbert.pdf), [TeX](spectreHilbert.zip) réalisé sous la dir. de Bernard Randé et [Julien Royer](https://www.math.univ-toulouse.fr/~jroyer/)
 
 # Notes explicatives
 - [Symmetric polynomials](sym_poly.pdf)
