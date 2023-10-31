@@ -12,7 +12,7 @@
 - [Valeurs propres d'une matrice, la fin va vous surprendre (Victor Esteve)](val_propre_esteve.pdf)
 - [Eigenfish (Victor Esteve)](eigenfish_notebook.pdf) - [Notebook jupyter](eigenfish_notebook.ipynb)
 - [Approximation uniforme de fonctions continues](approx_uniforme.pdf) Projet de S2 avec Raphaël Sala et Hugo Garcia, réalisé sous la dir. de [Philippe Monnier](https://www.math.univ-toulouse.fr/~monnier/)
-- [Ensembles intégraux de cardinal infini](integraux.pdf) Projet de S1 avec avec Raphaël Decan de Chatouville
+- [Ensembles intégraux de cardinal infini](integraux.pdf) Projet de S1 avec Raphaël Decan de Chatouville
 - [DVE](dve.pdf)
 
 # Physique
