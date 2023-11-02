@@ -23,5 +23,6 @@
 - [Intégrale du 26 mai 2021](26_mai_2021.pdf)
 - [Apprendre en écrivant](apprendre_en_ecrivant.pdf)
 - [Des maths pour Vadim](vad_maths.pdf)
+- [Cours résumés pour Vadim](avancementMathVadim.pdf)
 - [Commentaire pour un ami I](poincare.pdf)
 - [Commentaire pour un ami II](zagier.pdf)
