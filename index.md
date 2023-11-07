@@ -1,5 +1,5 @@
 # Introduction
-- [Trucs Spectraux et Hilbert](spectreHilbert.pdf) ([TeX](spectreHilbert.zip))
+- [Histoires de spectres](spectreHilbert.pdf) ([TeX](spectreHilbert.zip))
 
 # Notes
 - [Symmetric polynomials](sym_poly.pdf)
