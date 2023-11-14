@@ -1,12 +1,10 @@
-# Introduction
-- [Histoires de spectres](spectreHilbert.pdf) ([TeX](spectreHilbert.zip), [Biblio et quelques directions de recherche](BiblioSpectreGraphe.pdf))
-
 # Notes
 - [Symmetric polynomials](sym_poly.pdf)
 - [Exponentielle d'une matrice](mat_expo.pdf)
 - [Primitive où te caches-tu ? Une introduction à l'algèbre différentielle](alg_diff_fermat_junior.pdf)
 - [Truc Hilbert (notes manuscrites) @todo]() réalisé sous la dir. de Bernard Randé
-- [Truc laplacien discret @todo]() réalisé sous la dir. de [Julien Royer](https://www.math.univ-toulouse.fr/~jroyer/)
+- [Truc laplacien discret @todo]() réalisé sous la dir. de [Julien Royer](https://www.math.univ-toulouse.fr/~jroyer/), [Biblio et quelques directions de recherche](BiblioSpectreGraphe.pdf)
+- [Histoires de spectres](spectreHilbert.pdf) ([TeX](spectreHilbert.zip))
 
 # Parcours Spécial Maths
 - [Réduction des endomorphismes sous le spectre de la théorie des modules](@todo) Projet de S4 avec Elias Garcia-Naze, réalisé sous la dir. de [Thomas Dedieu](https://www.math.univ-toulouse.fr/~tdedieu/)
