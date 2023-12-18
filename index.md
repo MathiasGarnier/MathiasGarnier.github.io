@@ -7,7 +7,7 @@
 - [Histoires de spectres](spectreHilbert.pdf) ([TeX](spectreHilbert.zip))
 
 # Parcours Spécial Maths
-- [Réduction des endomorphismes sous le spectre de la théorie des modules](@todo) Projet de S4 avec Elias Garcia-Naze, réalisé sous la dir. de [Thomas Dedieu](https://www.math.univ-toulouse.fr/~tdedieu/), ([Notes de préparation](reduc_notes_preparation.pdf))
+- [Réduction des endomorphismes sous le spectre de la théorie des modules](@todo) Projet de S4 avec Anaëlle d'Aranjo et Elias Garcia-Naze, réalisé sous la dir. de [Thomas Dedieu](https://www.math.univ-toulouse.fr/~tdedieu/), ([Notes de préparation](reduc_notes_preparation.pdf))
 - [Valeurs propres d'une matrice, la fin va vous surprendre (Victor Esteve)](val_propre_esteve.pdf)
 - [Eigenfish (Victor Esteve)](eigenfish_notebook.pdf) - [Notebook jupyter](eigenfish_notebook.ipynb)
 - [Approximation uniforme de fonctions continues](approx_uniforme.pdf) Projet de S2 avec Raphaël Sala et Hugo Garcia, réalisé sous la dir. de [Philippe Monnier](https://www.math.univ-toulouse.fr/~monnier/)
