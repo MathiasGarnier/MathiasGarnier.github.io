@@ -1,3 +1,12 @@
+# Cycle de conférences février - mars 2024, organisé avec Victor Esteve et Félix Miguet
+Orateurs et oratrices :
+  - Étudiants : Félix (topologie algébrique), Anaëlle (Turing, Enigma), Enzo (problèmes de Hilbert), Simon (?), Mélissandre (astronomie), Raphaël (?), Pierre-Louis (?)...
+  - Doctorants : Candice Bernard (théorie de Galois), Anthony Saint-Criq (topologie géométrique)...
+  - MCF & P.R. : Stéphane Lamy (groupe de Cremona), Sebastien Deheuvels (astérosismologie), Jérôme Cuny (chimie quantique), Pierre Pujol (?)...
+
+Un [document](exposes2024.pdf) compilant l'ensemble des exposés.
+
+
 # Notes
 - [Symmetric polynomials](sym_poly.pdf)
 - [Exponentielle d'une matrice](mat_expo.pdf)
