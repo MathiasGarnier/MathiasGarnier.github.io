@@ -1,4 +1,4 @@
-# Cycle de conférences février - mars 2024, organisé avec Victor Esteve et Félix Miguet
+# Cycle de conférences février - mars 2024, organisé avec Victor Esteve et Félix Miguet soutenu par l'[Union des Parcours Spéciaux](https://sites.google.com/view/union-des-parcours-spciaux/accueil)
 Orateurs et oratrices :
   - Étudiants : Félix (topologie algébrique), Anaëlle (Turing, Enigma), Enzo (problèmes de Hilbert), Simon (?), Mélissandre (astronomie), Raphaël (?), Pierre-Louis (?)...
   - Doctorants : Candice Bernard (théorie de Galois), Anthony Saint-Criq (topologie géométrique)...
@@ -14,6 +14,7 @@ Un [document](exposes2024.pdf) compilant l'ensemble des exposés.
 - [Truc Hilbert (notes manuscrites) @todo]() réalisé sous la dir. de Bernard Randé
 - [Truc laplacien discret @todo]() réalisé sous la dir. de [Julien Royer](https://www.math.univ-toulouse.fr/~jroyer/), [Biblio et quelques directions de recherche](BiblioSpectreGraphe.pdf)
 - [Histoires de spectres](spectreHilbert.pdf) ([TeX](spectreHilbert.zip))
+- [Méthode de Hückel simple pour $\textnormal{H}_\textnormal{n}$](HuckelHn.pdf)
 
 # Parcours Spécial Maths
 - [Réduction des endomorphismes sous le spectre de la théorie des modules](@todo) Projet de S4 avec Anaëlle d'Aranjo et Elias Garcia-Naze, réalisé sous la dir. de [Thomas Dedieu](https://www.math.univ-toulouse.fr/~tdedieu/), ([Notes de préparation](reduc_notes_preparation.pdf))
