@@ -14,7 +14,7 @@ Un [document](exposes2024.pdf) compilant l'ensemble des exposés.
 - [Truc Hilbert (notes manuscrites) @todo]() réalisé sous la dir. de Bernard Randé
 - [Truc laplacien discret @todo]() réalisé sous la dir. de [Julien Royer](https://www.math.univ-toulouse.fr/~jroyer/), [Biblio et quelques directions de recherche](BiblioSpectreGraphe.pdf)
 - [Histoires de spectres](spectreHilbert.pdf) ([TeX](spectreHilbert.zip))
-- [Méthode de Hückel simple pour](HuckelHn.pdf) $\textnormal{H}_\textnormal{n}$
+- [Méthode de Hückel simple pour Hn](HuckelHn.pdf)
 
 # Parcours Spécial Maths
 - [Réduction des endomorphismes sous le spectre de la théorie des modules](@todo) Projet de S4 avec Anaëlle d'Aranjo et Elias Garcia-Naze, réalisé sous la dir. de [Thomas Dedieu](https://www.math.univ-toulouse.fr/~tdedieu/), ([Notes de préparation](reduc_notes_preparation.pdf))
