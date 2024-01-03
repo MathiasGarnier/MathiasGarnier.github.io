@@ -2,7 +2,7 @@
 Orateurs et oratrices :
   - Étudiants : Félix (topologie algébrique), Anaëlle (Turing, Enigma), Enzo (problèmes de Hilbert), Simon (?), Mélissandre (astronomie), Raphaël (?), Pierre-Louis (?)...
   - Doctorants : Candice Bernard (théorie de Galois), Anthony Saint-Criq (topologie géométrique)...
-  - MCF & P.R. : Stéphane Lamy (groupe de Cremona), Sebastien Deheuvels (astérosismologie), Jérôme Cuny (chimie quantique), Pierre Pujol (?)...
+  - MCF & P.R. : Stéphane Lamy (groupe de Cremona), Sebastien Deheuvels (astérosismologie), Jérôme Cuny (chimie quantique), Pierre Pujol (?), Carolle Rossi (?)...
 
 Un [document](exposes2024.pdf) compilant l'ensemble des exposés.
 
@@ -35,3 +35,4 @@ Un [document](exposes2024.pdf) compilant l'ensemble des exposés.
 - [Cours résumés pour Vadim](avancementMathVadim.pdf)
 - [Commentaire pour un ami I](poincare.pdf)
 - [Commentaire pour un ami II](zagier.pdf)
+- [Programme L1, L2, L3](Programme.pdf)
