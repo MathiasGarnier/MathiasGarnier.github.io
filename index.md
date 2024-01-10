@@ -26,6 +26,7 @@ Un [document](exposes2024.pdf) compilant l'ensemble des exposés.
 
 # Physique
 - [Détection de particules chargées dans un modèle simplifié de chambre à bulles](bulles.pdf) - [Diapositives](diapo_bulles.pdf) Projet de S1 avec avec Raphaël Decan de Chatouville
+- [Deriving the Kohn-Sham equation](KohnSham.pdf) (aidé pour le faire)
 
 # À droite, à gauche...
 - [Noyau, image, pseudo-inverse et une propriété universelle !](azumaya_drazin.pdf)
