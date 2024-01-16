@@ -1,8 +1,8 @@
 # [Conférence 4](conf4.pdf) (février - mars 2024) organisé avec Victor Esteve et Félix Miguet soutenu par l'[Union des Parcours Spéciaux](https://sites.google.com/view/union-des-parcours-spciaux/accueil)
 Orateurs et oratrices :
-  - Étudiants : Félix (topologie algébrique), Anaëlle (Turing, Enigma), Enzo (problèmes de Hilbert), Simon (?), Mélissandre (astronomie), Raphaël (?), Pierre-Louis (?)...
-  - Doctorants : Candice Bernard (théorie de Galois), Anthony Saint-Criq (topologie géométrique)...
-  - MCF & P.R. : Stéphane Lamy (groupe de Cremona), Sebastien Deheuvels (astérosismologie), Jérôme Cuny (chimie quantique), Pierre Pujol (?), Carolle Rossi (?)...
+  - Étudiants : Félix ([topologie algébrique](expo/felix.pdf)), Anaëlle ([Turing, Enigma](expo/anaelle.pdf)), Enzo ([problèmes de Hilbert](expo/enzo.pdf)), Simon ([?](expo/simon.pdf)), Mélissandre ([astronomie](expo/melissandre.pdf)), Raphaël ([?](expo/raphael)).
+  - Doctorants : Candice Bernard ([théorie de Galois](expo/bernard.pdf)), Anthony Saint-Criq ([topologie géométrique](expo/saint-criq.pdf)), Anthony Muraro ([probabilités](expo/muraro.pdf)).
+  - M.C.F. & P.R. : Stéphane Lamy ([groupe de Cremona](expo/lamy.pdf)), Sebastien Deheuvels ([astérosismologie](expo/deheuvels.pdf)), Jérôme Cuny ([chimie quantique](expo/cuny.pdf)), Pierre Pujol ([?](expo/pujol.pdf)), Carolle Rossi ([nanomatériaux pour applications énergétiques](expo/rossi.pdf)), Lionel Calmels ([Physique quantique et nanomatériaux](expo/calmels.pdf)), Cyril Martins ([?](expo/martins.pdf)), Julien Royer ([théorie spectrale et EDP](expo/royer.pdf)).
 
 Un [document](exposes2024.pdf) compilant l'ensemble des exposés.
 
