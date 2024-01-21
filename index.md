@@ -11,9 +11,9 @@ Un [document](exposes2024.pdf) compilant l'ensemble des exposés.
 - [Symmetric polynomials](sym_poly.pdf)
 - [Exponentielle d'une matrice](mat_expo.pdf)
 - [Primitive où te caches-tu ? Une introduction à l'algèbre différentielle](alg_diff_fermat_junior.pdf)
+- [Introduction à l'algèbre différentielle](alg_diff_intro.pdf)
 - [Truc Hilbert (notes manuscrites) @todo]() réalisé sous la dir. de Bernard Randé
 - [Truc laplacien discret @todo]() réalisé sous la dir. de [Julien Royer](https://www.math.univ-toulouse.fr/~jroyer/), [Biblio et quelques directions de recherche](BiblioSpectreGraphe.pdf)
-- [Histoires de spectres](spectreHilbert.pdf) ([TeX](spectreHilbert.zip))
 - [Méthode de Hückel simple pour Hn](HuckelHn.pdf)
 
 # Parcours Spécial Maths
@@ -32,6 +32,7 @@ Un [document](exposes2024.pdf) compilant l'ensemble des exposés.
 - [Noyau, image, pseudo-inverse et une propriété universelle !](azumaya_drazin.pdf)
 - [Intégrale du 26 mai 2021](26_mai_2021.pdf)
 - [Apprendre en écrivant](apprendre_en_ecrivant.pdf)
+- [Quelques notes de cours, non fini](spectreHilbert.pdf) ([TeX](spectreHilbert.zip))
 - [Des maths pour Vadim](vad_maths.pdf)
 - [Cours résumés pour Vadim](avancementMathVadim.pdf)
 - [Commentaire pour un ami I](poincare.pdf)
