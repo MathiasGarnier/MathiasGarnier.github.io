@@ -1,3 +1,6 @@
+# BORDEL, NE PAS Y FAIRE ATTENTION!!!!
+
+
 # [Conférence 4](conf4.pdf) (février - mars 2024) organisé avec Victor Esteve et Félix Miguet soutenu par l'[Union des Parcours Spéciaux](https://sites.google.com/view/union-des-parcours-spciaux/accueil)
 Orateurs et oratrices :
   - Étudiants : Félix ([topologie algébrique](expo/felix.pdf)), Anaëlle ([Turing, Enigma](expo/anaelle.pdf)), Enzo ([problèmes de Hilbert](expo/enzo.pdf)), Simon ([?](expo/simon.pdf)), Mélissandre ([astronomie](expo/melissandre.pdf)), Raphaël ([?](expo/raphael)).
