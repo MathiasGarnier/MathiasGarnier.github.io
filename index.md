@@ -4,7 +4,8 @@
 - [Brève introduction aux EDP]() sous la direction de Xavier Lamy (UT3, Toulouse, France).
 - [Rapport de fin de Licence - Théorie analytique des nombres]() sous la direction de Julia brandes (Chalmers, Göteborg, Suède).
 - [Équation de Schrödinger dépendante du temps]() en collaboration avec J. Borrel, R. Decan de Chatouville, S. Luga. La partie X correspond au stage réalisé sous la direction de Eric Cancès (École Nationale des Ponts et Chaussées).
-- [Notes d'algèbre](). 
+- [Notes d'algèbre]().
+- [Condensé de géométrie]() à la Deltheil & Caire.
 
 <!--- # BORDEL, NE PAS Y FAIRE ATTENTION!!!!
 
