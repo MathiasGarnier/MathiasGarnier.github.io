@@ -1,4 +1,12 @@
-# BORDEL, NE PAS Y FAIRE ATTENTION!!!!
+# Documents téléversés (rédigés lors du S6)
+
+- [Séminaire de Lecture - Introduction à la théorie spectrale]() sous la direction de Paulo Carrillo-Rouse (UT3, Toulouse, France).
+- [Brève introduction aux EDP]() sous la direction de Xavier Lamy (UT3, Toulouse, France).
+- [Rapport de fin de Licence - Théorie analytique des nombres]() sous la direction de Julia brandes (Chalmers, Göteborg, Suède).
+- [Équation de Schrödinger dépendante du temps]() en collaboration avec J. Borrel, R. Decan de Chatouville, S. Luga. La partie X correspond au stage réalisé sous la direction de Eric Cancès (École Nationale des Ponts et Chaussées).
+- [Notes d'algèbre](). 
+
+<!--- # BORDEL, NE PAS Y FAIRE ATTENTION!!!!
 
 
 # [Conférence 4](conf4.pdf) (février - mars 2024) organisé avec Victor Esteve et Félix Miguet soutenu par l'[Union des Parcours Spéciaux](https://sites.google.com/view/union-des-parcours-spciaux/accueil)
@@ -41,3 +49,5 @@ Un [document](exposes2024.pdf) compilant l'ensemble des exposés.
 - [Commentaire pour un ami I](poincare.pdf)
 - [Commentaire pour un ami II](zagier.pdf)
 - [Programme L1, L2, L3](Programme.pdf)
+
+-->
