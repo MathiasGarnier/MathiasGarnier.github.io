@@ -2,7 +2,7 @@
 
 - [Séminaire de Lecture - Introduction à la théorie spectrale]() sous la direction de Paulo Carrillo-Rouse (UT3, Toulouse, France).
 - [Brève introduction aux EDP]() sous la direction de Xavier Lamy (UT3, Toulouse, France).
-- [Rapport de fin de Licence - Théorie analytique des nombres]() sous la direction de Julia brandes (Chalmers, Göteborg, Suède).
+- [Rapport de fin de Licence - Théorie analytique des nombres]() sous la direction de Julia Brandes (Chalmers, Göteborg, Suède).
 - [Équation de Schrödinger dépendante du temps]() en collaboration avec J. Borrel, R. Decan de Chatouville, S. Luga. La partie X correspond au stage réalisé sous la direction de Eric Cancès (École Nationale des Ponts et Chaussées).
 - [Notes d'algèbre]().
 - [Condensé de géométrie]() à la Deltheil & Caire.
