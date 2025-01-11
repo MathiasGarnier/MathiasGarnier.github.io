@@ -6,6 +6,7 @@
 - [Équation de Schrödinger dépendante du temps]() en collaboration avec J. Borrel, R. Decan de Chatouville, S. Luga. La partie X correspond au stage réalisé sous la direction de Eric Cancès (École Nationale des Ponts et Chaussées).
 - [Notes d'algèbre]().
 - [Condensé de géométrie]() à la Deltheil & Caire.
+- [Traduction de _Integrationsteori_ de T. Claesson et L. Hörmander]() afin d'apprendre vaguement le suédois.
 
 <!--- # BORDEL, NE PAS Y FAIRE ATTENTION!!!!
 
