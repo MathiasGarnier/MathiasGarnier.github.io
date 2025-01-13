@@ -4,7 +4,7 @@
 - [Équation de Schrödinger dépendante du temps]() en collaboration avec J. Borrel, R. Decan de Chatouville, S. Luga. La partie X correspond au stage réalisé sous la direction de Eric Cancès (École Nationale des Ponts et Chaussées).
 - [Séminaire de lecture - Introduction à la théorie spectrale]() sous la direction de Paulo Carrillo-Rouse (UT3, Toulouse, France).
 - [Séminaire de lecture - Introduction à la géométrie hyperbolique (scans)]() sous la direction de Stéphane Lamy (UT3, Toulouse, France).
-- [Brève introduction aux EDP]() sous la direction de Xavier Lamy (UT3, Toulouse, France).
+- [Applications harmoniques et cristaux liquides nématiques]() sous la direction de Xavier Lamy (UT3, Toulouse, France).
 - [Notes d'algèbre]().
 - [Condensé de géométrie]() à la Deltheil & Caire.
 - [Traduction de _Integrationsteori_ de T. Claesson et L. Hörmander]() afin d'apprendre vaguement le suédois.
