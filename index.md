@@ -6,8 +6,8 @@
 - [Séminaire de lecture - Introduction à la géométrie hyperbolique (scans)]() sous la direction de Stéphane Lamy (UT3, Toulouse, France).
 - [Applications harmoniques et cristaux liquides nématiques]() sous la direction de Xavier Lamy (UT3, Toulouse, France).
 - [Notes d'algèbre]().
-<!--- - [Condensé de géométrie]() à la Deltheil & Caire. -->
 - [Traduction de _Integrationsteori_ de T. Claesson et L. Hörmander]() afin d'apprendre vaguement le suédois.
+<!--- - [Condensé de géométrie]() à la Deltheil & Caire. -->
 
 <!--- # BORDEL, NE PAS Y FAIRE ATTENTION!!!!
 
